@@ -2,7 +2,7 @@
 
 # x1.0.0 (2023.04)
 
-*Features*
+*Features* 2
 * SWA + API
   * `.devcontainer`: local proxied react + api using [SWA CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-configuration)
   * `app-react-vite`: very simple React 18 + Vite app with Azure _easy auth_
