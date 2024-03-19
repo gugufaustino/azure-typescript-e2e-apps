@@ -35,3 +35,5 @@ A monorepo of apps used with the Azure cloud.
 |`api=`|HTTP API.|
 |`lib-`|Library. Included in other projects.|
 |`cli-`|Command-line interface.|
+
+fora do container
